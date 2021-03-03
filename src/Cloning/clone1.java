@@ -6,7 +6,6 @@ public class clone1 implements Cloneable {
 	clone1()
 	{
 		i=10;
-		
 	}
 	
 	public void display()
