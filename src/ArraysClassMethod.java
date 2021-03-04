@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
-//main method
+//main method comment
 public class ArraysClassMethod {
 
 	public static void main(String[] args) {
