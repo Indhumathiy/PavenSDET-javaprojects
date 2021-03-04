@@ -1,9 +1,8 @@
 package p1;
-//Errors 
 
-public class constructorEg {
+public class constructorEg2 {
 	String name;
-	private constructorEg() 
+	private constructorEg2() 
 	{
 		this.name="Indhu";
 		System.out.println(name);
@@ -17,7 +16,7 @@ public class constructorEg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		constructorEg ce=new constructorEg();
+		constructorEg2 ce=new constructorEg2();
 		//System.out.println(ce.name);
 	}
 
